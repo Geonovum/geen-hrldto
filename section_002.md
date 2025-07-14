@@ -68,7 +68,7 @@ Dit met het doel een digitale tweeling als data en AI-technologie op rechtstatel
 Het proces dat het usecaseteam doorloopt, bestaat uit een workshopreeks en daaropvolgende periodieke retrospectiefs. Tijdens de workshopreeks werkt een team van bij de maatschappelijke opgave betrokken beleidsmakers en (geo)dataspecialisten met behulp van het usecasecanvas aan een usecasebeschrijving op basis waarvan een digitale tweeling door (een) software-ontwikkelaar(s) wordt ontwikkeld. Gedurende deze ontwikkelperiode worden met het usecaseteam en de ontwikkelaar(s) periodieke retrospectiefs gehouden, waarmee het leerproces dat met de workshops is ingezet, op systematische wijze wordt gecontinueerd. Dit proces van leren ontwikkelen en verankeren is hieronder schematisch weergegeven. 
 <br/>
 <br/>
-<figure><img src='media/image5.png' alt='Afbeelding met tekst, schermopname, Onlineadvertenties, Website' style='width: 100%;'></img>
+<figure><img src='media/image5.png' border=1 alt='Afbeelding met tekst, schermopname, Onlineadvertenties, Website' style='width: 100%;'></img>
 <figcaption><i>Het usecaseproces</i></figcaption></figure>
 
 ### Het selecteren van een usecase en een interdisciplinair team vormen {#4EBCD8A7}
