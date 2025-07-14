@@ -49,7 +49,8 @@ Op die manier sluiten we ook aan bij wat uit wetenschappelijk onderzoek naar vor
 <i>Tabel 1: </i><i>Volberda</i><i> & Bosma 2011 </i>
 <br/>
 <br/>
-Sociale innoveren is geen sinecure. Het ‘herkennen, verwerven, integreren en toepassen’ van een digitale tweeling, anders gezegd<i> digital </i><i>twinning</i><i> </i>als werkwijze eigen maken en incorporeren zodat de voordelen ervan zichtbaar worden, is niet eenvoudig te realiseren. De leer-en ontwikkelmethode helpt dit werkende wijs op een lerende manier te doen. 
+Sociale innoveren is geen sinecure. Het ‘herkennen, verwerven, integreren en toepassen’ van een digitale tweeling, anders gezegd<i> digital </i><i>twinning</i><i> </i>als werkwijze eigen maken en incorporeren zodat de voordelen ervan zichtbaar worden, is niet eenvoudig te realiseren. De leer-en ontwikkelmethode helpt dit werkende wijs op een lerende manier te doen.  
+
 ## Een usecase als leeromgeving  {#1C1ECCE2}
 Voor de ontwikkeling van een digitale tweeling en verankering daarvan in de beleids- en besluitvormingsprocessen van organisaties, wordt de basis gelegd in een usecase. 
 ### Een usecase en het lerend ontwikkelen en verankeren van een digitale tweeling {#38CA3622}
@@ -68,7 +69,7 @@ Het proces dat het usecaseteam doorloopt, bestaat uit een workshopreeks en daaro
 <br/>
 <br/>
 <figure><img src='media/image5.png' alt='Afbeelding met tekst, schermopname, Onlineadvertenties, Website' style='width: 100%;'></img>
-<figcaption><i>Afbeelding 2: Het </i><i>usecaseproces</i><i> </i></figcaption></figure>
+<figcaption><i>Het usecaseproces</i></figcaption></figure>
 
 ### Het selecteren van een usecase en een interdisciplinair team vormen {#4EBCD8A7}
 Het proces van lerend een digitale tweeling ontwikkelen en verankeren, kent een aantal rollen. Een provincie of gemeente brengt een maatschappelijk vraagstuk in, waarvoor zij een digitale tweeling willen ontwikkelen. Dit kunnen zij doen in samenwerking met andere overheden. De ‘usecase-ownende’ organisatie zorgt dat alles rondom de usecase wordt voorbereid en er een team wordt gevormd. Het is raadzaam dat de organisatie die een digitale tweeling wil ontwikkelen, voor de inhoudelijke aansturing daarvan een projectleider aanstelt. 
