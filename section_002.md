@@ -93,23 +93,14 @@ Voor het goed zicht krijgen op het maatschappelijke vraagstuk en wat dit beteken
 <figcaption><i>Het usecasecanvas</i></figcaption></figure>
 <br/>
 Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaseteam. Het helpt een multidisciplinair usecaseteam van beleids- en/of gebieds-of opgaveprofessionals en geo-data-specialisten uit de bij het vraagstuk betrokken organisaties:
-<table style='width: 100%'><caption></caption>
-<colgroup><col id='col1' style='width: 64.5927470744989%'>
-<col id='col2' style='width: 35.4072529255011%'>
-</colgroup>
-<tbody><tr><td class='left'>
 <ul><li>systematisch en <i>agile</i> vanuit het maatschappelijk vraagstuk, de maatschappelijke doelen en beoogde maatschappelijke waarden een digitale tweeling te ontwikkelen </li>
 <li>over silo’s en organisatiegrenzen heen te leren samenwerken</li>
 <li>elkaar, elkaars werksituatie en uitdagingen leren kennen en begrijpen</li>
 <li>een gemeenschappelijke taal ontwikkelen</li>
 <li>een manier van werken te ontwikkelen om multidisciplinair en in- en externe stakeholders actief te betrekken en met hen samen te werken</li>
 </ul>
-</td>
-<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100% hight: 100%'></img>
-</td>
-</tr>
-</tbody>
-</table>
+<figure<img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 50%;'></img>
+<br/>
 
 ## De dynamiek tijdens het ontwikkelen en verankeren van een digitale tweeling  {#036BAD72}
 Het ontwikkelen en gebruiken van een digitale tweeling verloopt niet zonder slag of stoot. De impact die het ontwikkelen en het werken met een digitale tweeling heeft op mensen, organisatiestructuren en (samen)werkprocessen, schept enerzijds nieuwe kansen en mogelijkheden. Anderzijds geeft het ook uitdagingen, onzekerheden en onrust. Dit laatste is een goed teken. Zoals Jansen en Swieringa treffend formuleren (2005): “<i>geen verandering zonder gedoe en zonder gedoe ook geen verandering”</i>. Tijdens het usecaseproces doen zich allerlei situaties voor: verwacht en onverwacht. De uitdaging is hier zo goed mogelijk mee leren omgaan, zodat het multidisciplinair en organisatie-overstijgend samenwerken aan maatschappelijke opgaven met behulp van een digitale tweeling werkelijkheid wordt. 
