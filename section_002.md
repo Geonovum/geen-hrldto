@@ -82,7 +82,7 @@ Het is raadzaam om naast een projectleider een combinatie aan te stellen van een
 Daarnaast helpt de procesbegeleider de projectleider bij de dynamiek rond de usecase en het daaraan verbonden leerproces, zodat er een digitale tweeling in gebruik kan worden genomen die de doelen van het maatschappelijk vraagstuk ondersteunt. Kennis van en ervaring met organisatie(veranderings)processen, dynamiek van groepsprocessen binnen en tussen organisaties is essentieel.
 De inhoudelijk begeleider adviseert en ondersteunt bij het ontwikkelen van opgave gerelateerde userstories en de technische ontwikkeling van de digitale tweeling. Deze rol kan goed door een (geo)data-expert of informatie-analist vervuld worden.
 
-### <b>Usecase</b><b> in beeld brengen met een </b><b>usecasecanvas</b> {#0D10E7F8}
+### Usecase in beeld brengen met een usecasecanvas {#0D10E7F8}
 Voor het goed zicht krijgen op het maatschappelijke vraagstuk en wat dit betekent voor de te ontwikkelen digitale tweeling en de verankering daarvan in de organisatie, is een usecasecanvas ontwikkelt. Dit canvas wordt tijdens de workshops als hulpmiddel gebruikt en gaandeweg het proces gevuld. 
 <br/>
 <br/>
@@ -92,20 +92,20 @@ Voor het goed zicht krijgen op het maatschappelijke vraagstuk en wat dit beteken
 <figure><img src='media/image7.png' alt='Afbeelding met tekst, schermopname, diagram, Parallel' style='width: 100%;'></img>
 <figcaption><i>Het usecasecanvas</i></figcaption></figure>
 <br/>
-<br/>
 Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaseteam. Het helpt een multidisciplinair usecaseteam van beleids- en/of gebieds-of opgaveprofessionals en geo-data-specialisten uit de bij het vraagstuk betrokken organisaties:
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 64.5927470744989%;'>
 <col id='col2' style='width: 35.4072529255011%;'>
 </colgroup>
-<tbody><tr><td class='left'><ul><li><span style='color: #3C3C3C;'>systematisch en </span><i><span style='color: #3C3C3C;'>agile </span></i><span style='color: #3C3C3C;'>vanuit het maatschappelijk vraagstuk, de maatschappelijke doelen en beoogde maatschappelijke waarden een digitale tweeling te ontwikkelen </span></li>
-<li><span style='color: #3C3C3C;'>over silo’s en organisatiegrenzen heen te leren samenwerken</span></li>
-<li><span style='color: #3C3C3C;'>elkaar, elkaars werksituatie en uitdagingen leren kennen en begrijpen</span></li>
-<li><span style='color: #3C3C3C;'>een gemeenschappelijke taal ontwikkelen</span></li>
-<li><span style='color: #3C3C3C;'>een manier van werken te ontwikkelen om multidisciplinair en in- en externe stakeholders actief te betrekken en met hen samen te werken</span></li>
+<tbody><tr><td class='left'>
+<ul><li>systematisch en <i>agile</i> vanuit het maatschappelijk vraagstuk, de maatschappelijke doelen en beoogde maatschappelijke waarden een digitale tweeling te ontwikkelen </li>
+<li>over silo’s en organisatiegrenzen heen te leren samenwerken</li>
+<li>elkaar, elkaars werksituatie en uitdagingen leren kennen en begrijpen</li>
+<li>een gemeenschappelijke taal ontwikkelen</li>
+<li>een manier van werken te ontwikkelen om multidisciplinair en in- en externe stakeholders actief te betrekken en met hen samen te werken</li>
 </ul>
 </td>
-<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100%;'></img>
+<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100%; Hight:100%'></img>
 </td>
 </tr>
 </tbody>
