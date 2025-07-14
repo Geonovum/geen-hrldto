@@ -3,8 +3,8 @@
 De Innovatieleercyclus is een leermethodiek die teams van samenwerkende organisaties in kunnen zetten om op systematische wijze een digitale tweeling lerend te ontwikkelen en te verankeren. Dit tweede deel van de handleiding heeft als doel begeleiders van dit leerproces praktische handreikingen en hulmiddelen te bieden voor het:
 <ul><li>voorbereiden van een usecase ofwel leeromgeving, </li>
 <li>het begeleiden van usecaseworkshops om vanuit een concrete maatschappelijke opgave, maatschappelijke doelen en informatiebehoeften een digitale tweeling te ontwikkelen</li>
-<li>en het begeleiden van periodieke retrospectiefsessies waarin het interdisciplinair team systematisch reflecteert en leert met betrekking tot waardecreatie van een digitale tweeling voor maatschappij en belanghebbenden, samenwerking binnen het usecaseteam en met belanghebbenden, en de ontwikkeling en verankering van een digitale tweeling. </li>
-</ul>
+<li>en het begeleiden van periodieke retrospectiefsessies waarin het interdisciplinair team systematisch reflecteert en leert met betrekking tot waardecreatie van een digitale tweeling voor maatschappij en belanghebbenden, samenwerking binnen het usecaseteam en met belanghebbenden, en de ontwikkeling en verankering van een digitale tweeling. </li></ul>
+
 ## De voorbereidingsfase {#63F64583}
 ### Inbrengen van een maatschappelijk vraagstuk {#07029DAB}
 De voorbereidingsfase staat in het teken van het selecteren van een maatschappelijk vraagstuk waarvoor een digitale tweeling van grote waarde kan zijn. Het idee kan vanuit verschillende kanten komen, van een opgavemanager, een beleidsadviseur of een digitaliseringsplan kan de aanleiding zijn. 
@@ -31,6 +31,7 @@ Als het maatschappelijk vraagstuk geschikt is voor het inrichten van een leeromg
 <br/>
 Aangezien ieder vraagstuk anders is, zal ook de samenstelling van het soort functionarissen en de mate waarin zij betrokken zijn, per usecase verschillend zijn. Het is echter essentieel dat voor ieder vraagstuk, in het usecaseteam altijd opgave- en beleidsinhoudelijke professionals vertegenwoordigd zijn, aangezien zij de vragende partij zijn.
 Het vraagt van de projectleider flexibiliteit en adaptieve vaardigheden om zich situationeel aan continu veranderende omstandigheden en intern (politieke) dynamiek aan te passen, om tot een goede usecase met passend usecaseteam te komen.
+
 ## Usecaseworkshops {#00B77D4A}
 ### Doel usecaseworkshops {#3B002B40}
 De usecaseworkshop-reeks heeft twee doelstellingen. Enerzijds zijn de usecaseworkshops gericht op de technologie: het ontwikkelen van een werkende digitale tweeling die door gebruikers wordt ingezet ten behoeve van het maatschappelijke vraagstuk dat in de usecase centraal staat. Daarvoor is het belangrijk op systematische wijze het maatschappelijke vraagstuk binnen de brede omgeving van belanghebbenden te ontleden en te vertalen naar concrete doelen, informatiebehoeften en de gewenste functionaliteiten van toekomstige gebruikers van de digitale tweeling.  
@@ -42,8 +43,8 @@ Anderzijds is het doorlopen van de usecaseworkshops gericht op het veranderproce
 <li>elkaar, elkaars werksituatie en uitdagingen te leren kennen en begrijpen</li>
 <li>een gemeenschappelijke taal ontwikkelen</li>
 <li>een gezamenlijk beeld creëren van het maatschappelijk vraagstuk, de complexiteit van de omgeving en stakeholderbelangen, de beoogde waarde en doelen van een gezamenlijke digitale tweeling</li>
-<li>goed zicht te krijgen op wat er nodig is voor de verankering van de nieuwe werkwijze in de organisatie. </li>
-</ul>
+<li>goed zicht te krijgen op wat er nodig is voor de verankering van de nieuwe werkwijze in de organisatie. </li></ul>
+
 ### Inhoud en vorm van de usecaseworkshops {#15C8896F}
 Het usecaseproces (afbeelding 2) en het usecasecanvas (afbeelding 3) geven een richting voor de inhoud van de usecaseworkshops en de onderwerpen die per workshop aan de orde komen. Daar komt bij dat ieder maatschappelijk vraagstuk een eigen complexiteit kent, en ieder usecaseteam over een eigen dynamiek en kennisniveau beschikt. Beide aspecten zijn van grote invloed op de uiteindelijke vorm van de workshops. Dat is de reden dat de competenties van een procesbegeleider onmisbaar zijn om tot een goede articulatie van de vraag te komen en tegelijk het groepsproces te begeleiden. 
 <br/>
@@ -52,6 +53,7 @@ Een ervaren procesbegeleider heeft inzicht in groepsprocessen, doorziet wat een 
 <br/>
 <br/>
 De volgende paragrafen gaan per usecaseworkshop in op de inhoud. Ook geven de paragrafen handreikingen en tips voor hoe de workshops inhoud en vorm kunnen krijgen. Iedere procesbegeleider kan hier zijn of haar eigen variaties op maken.
+
 ### Workshop 1: maatschappelijke en stakeholderwaarde {#1E97E91E}
 <i>Doel van workshop 1</i>
 Tijdens de eerste workshop wordt het richting en het doel van de usecase bepaalt. Het heeft een verkennend en divergerend karakter. Gaandeweg de andere workshops wordt op de onderwerpen uit deze eerste workshop teruggegrepen en wordt geconvergeerd. 
@@ -118,6 +120,7 @@ Trek voor de workshop voldoende tijd uit, een dagdeel van 4 uur is aan te bevele
 <img src='media/image11.png' alt='Afbeelding met tekst, schermopname, document, Parallel' style='width: 46.5672079729763%;'></img>
 <img src='media/image12.png' alt='Afbeelding met tekst, schermopname, Parallel, document' style='width: 47.385810369352484%;'></img>
 <i>Afbeelding 6: voorbeeld uitwerking workshop 1</i>
+
 ### Workshop 2: het ontwerp {#7AE623D6}
 <i>Doel van workshop 2</i>
 De eerste workshop genereert over het algemeen veel ideeën voor het vraagstuk dat in de usecase centraal staat. De kunst is om op basis van een review door de deelnemers de opbrengsten uit deze eerste workshop, tot een prioritering of een scherpere definitie te komen voor het maatschappelijke vraagstuk waar het usecaseteam zich met de te ontwikkelen digitale tweeling op wil focussen. Ook is het van belang dat het usecaseteam een keus maakt voor een specifiek gebied of een wijk voor de te ontwikkelen digitale tweeling. Deze focus is essentieel om de complexiteit van een digitale tweeling en de gewenste functionaliteiten en rekenmodellen overzichtelijk te houden.
@@ -210,6 +213,7 @@ Agendapunt 4
 </ul>
 <img src='media/image16.png' alt='Afbeelding met tekst, schermopname, diagram, cirkel' style='width: 100%;'></img>
 <i>Afbeelding 10: een voorbeeld de gewenste functionaliteiten van een digitale tweeling per fase van de beleidscyclus</i>
+
 ### Deelworkshop: user stories {#560636BB}
 <i>Doel van deelworkshop User </i><i>stories</i>
 De deelworkshop User stories is erop gericht om op basis van de uitkomsten uit twee voorgaande workshops, de functionaliteiten van de te ontwikkelen digitale tweelingen vanuit het oogpunt van toekomstige gebruikers te beschrijven. Een goede user story beschrijft wat het systeem, de digitale tweeling, moet doen.
@@ -293,6 +297,7 @@ Deze deelworkshop wordt in de regel gehouden met de opgave- en beleidsinhoudelij
 Iedere user story kan verder worden gespecificeerd en gekwantificeerd. Daar is onderstaand template een handig hulpmiddel voor. Het aanscherpen van de user stories helpt gebruikers concreter te worden over wat zij verwachten van een digitale tweeling en aan welke voorwaarden een digitale tweeling dient te voldoen. 
 <img src='media/image18.png' alt='Afbeelding met tekst, schermopname, Lettertype, lijn' style='width: 100%;'></img>
 <i>Afbeelding 12.: template voor het smart maken en kwantificeren van de user story</i>
+
 ### Deelworkshop: technologie & data {#1239FCC0}
 Deze deelworkshop gaat dieper op de data en technologie in. De workshop is gericht op:
 <ul><li>Het aanscherpen van de user stories op informatie, data en technologische aspecten</li>
@@ -357,7 +362,8 @@ Agendapunt 2
 <li>In plaats van het template kan ook een excelsheet worden gebruikt, zoals hieronder weergegeven.</li>
 </ul>
 <img src='media/image19.png' alt='Afbeelding met tekst, schermopname, lijn, Lettertype' style='width: 100%;'></img>
-<i>Afbeelding 13: voorbeeld uitgewerkte en gekwantificeerde userstory</i> 
+<i>Afbeelding 13: voorbeeld uitgewerkte en gekwantificeerde userstory</i>
+
 ### Workshop 3: Use case compleet maken {#35138273}
 Het doel van de derde workshop is het proces van het verhelderen van de maatschappelijk vraag naar technologische specificaties compleet te maken, zodat de vraagarticulatie wordt voltooid en de prototestingsfase kan worden gestart. Daarvoor worden:
 <ul><li>de resultaten uit de deelworkshops samengebracht, </li>
@@ -443,6 +449,7 @@ Dat is het doel van deze laatste fase van het usecase-canvas. Onderstaande vrage
 <br/>
 <img src='media/image22.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 43.28530800332056%;'></img>
 <i>Afbeelding 16: onderdeel </i><i>usecasecanvas</i><i> met aandachtspunten voor het toetsen van de werking van de digitale tweeling in de dagelijkse praktijk</i>
+
 ## Systematisch leren & ontwikkelen {#70AC5FF7}
 Tijdens de usecase-workshops wordt de basis gelegd van het collectieve leerproces voor het ontwikkelen en verankeren van een digitale tweeling. Tijdens het ontwikkelen van een digitale tweeling technologie, wordt het leerproces gecontinueerd. Daarvoor vinden er onder begeleiding van de procesbegeleider periodiek retrospectief-sessies plaats. Deze retrospectief-sessies hebben als doel op systematische wijze te leren van en voortgang te boeken op 3 thema’s, die terug te voeren zijn op het usecase-canvas:
 <ul><li>het creëren van waarde voor de maatschappelijke opgave, stakeholders en elkaar</li>
