@@ -21,28 +21,28 @@ var documentConfig =
   authors: [
     {
       name: "Rosemarie Mijlhoff",
-      company: "",
+      company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     },
     {
       name: "Gineke van Putten",
       company: "Geonovum",
-      companyURL: ""
+      companyURL: "https://www.geonovum.nl/"
     },
     {
       name: "Michel Grothe",
       company: "Geonovum",
-      companyURL: ""
+      companyURL: "https://www.geonovum.nl/"
     },
     {
       name: "Bart de Lathouwer",
       company: "Geonovum",
-      companyURL: ""
+      companyURL: "https://www.geonovum.nl/"
     },
     {
       name: "Yvonne Verdonk",
       company: "Geonovum",
-      companyURL: ""
+      companyURL: "https://www.geonovum.nl/"
     }
   ],
   editors: [
