@@ -68,7 +68,7 @@ Dit met het doel een digitale tweeling als data en AI-technologie op rechtstatel
 Het proces dat het usecaseteam doorloopt, bestaat uit een workshopreeks en daaropvolgende periodieke retrospectiefs. Tijdens de workshopreeks werkt een team van bij de maatschappelijke opgave betrokken beleidsmakers en (geo)dataspecialisten met behulp van het usecasecanvas aan een usecasebeschrijving op basis waarvan een digitale tweeling door (een) software-ontwikkelaar(s) wordt ontwikkeld. Gedurende deze ontwikkelperiode worden met het usecaseteam en de ontwikkelaar(s) periodieke retrospectiefs gehouden, waarmee het leerproces dat met de workshops is ingezet, op systematische wijze wordt gecontinueerd. Dit proces van leren ontwikkelen en verankeren is hieronder schematisch weergegeven. 
 <br/>
 <br/>
-<figure><img src='media/image5.png' border=1 alt='Afbeelding met tekst, schermopname, Onlineadvertenties, Website' style='width: 100%;'></img>
+<figure><img src='media/image5.png' border='1' alt='Afbeelding met tekst, schermopname, Onlineadvertenties, Website' style='width: 100%;'></img>
 <figcaption><i>Het usecaseproces</i></figcaption></figure>
 
 ### Het selecteren van een usecase en een interdisciplinair team vormen {#4EBCD8A7}
@@ -93,9 +93,9 @@ Voor het goed zicht krijgen op het maatschappelijke vraagstuk en wat dit beteken
 <figcaption><i>Het usecasecanvas</i></figcaption></figure>
 <br/>
 Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaseteam. Het helpt een multidisciplinair usecaseteam van beleids- en/of gebieds-of opgaveprofessionals en geo-data-specialisten uit de bij het vraagstuk betrokken organisaties:
-<table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 64.5927470744989%;'>
-<col id='col2' style='width: 35.4072529255011%;'>
+<table style='width: 100%'><caption></caption>
+<colgroup><col id='col1' style='width: 64.5927470744989%'>
+<col id='col2' style='width: 35.4072529255011%'>
 </colgroup>
 <tbody><tr><td class='left'>
 <ul><li>systematisch en <i>agile</i> vanuit het maatschappelijk vraagstuk, de maatschappelijke doelen en beoogde maatschappelijke waarden een digitale tweeling te ontwikkelen </li>
@@ -105,7 +105,7 @@ Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaset
 <li>een manier van werken te ontwikkelen om multidisciplinair en in- en externe stakeholders actief te betrekken en met hen samen te werken</li>
 </ul>
 </td>
-<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel'></img>
+<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100% hight: 100%'></img>
 </td>
 </tr>
 </tbody>
@@ -139,13 +139,13 @@ Echter, ontastbare en onbeheersbare onderstroomprocessen bepalen voor een groot 
 </colgroup>
 <tbody><tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #D9D9D9;'><p class='space-after' id='4A8D8C84'><b>ASYMMETRIE TUSSEN SAMENWERKENDE ORGANISATIES</b></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6;'><p id='56E555E4'><b>Zichtbaar & tastbaar</b></p><ul><li>Organisatiekenmerken zoals omvang, kernactiviteit, leeftijd, marktaandeel</li>
+<tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #F0F8FF;'><p id='56E555E4'><b>Zichtbaar & tastbaar</b></p><ul><li>Organisatiekenmerken zoals omvang, kernactiviteit, leeftijd, marktaandeel</li>
 <li>Organisatorische belangen zoals het realiseren van maatschappelijke doelen, groei, werkgelegenheid</li>
 <li>Uitwisselbaarheden zoals middelen, investeringen, faciliteiten, netwerken, kennis en competenties</li>
 </ul>
 </td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6;'><p id='25C9114B'><b>Onzichtbaar & relationeel</b></p><ul><li>Wederzijdse aannames, intenties, percepties, verwachtingen</li>
+<tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #F0F8FF;'><p id='25C9114B'><b>Onzichtbaar & relationeel</b></p><ul><li>Wederzijdse aannames, intenties, percepties, verwachtingen</li>
 <li>Persoonlijke belangen zoals reputatie, posities en invloed</li>
 <li>Gezamenlijke geschiedenis en bestaande vertrouwens- of conflictrelaties</li>
 <li>Percepties over onderlinge asymmetrie<br/>
