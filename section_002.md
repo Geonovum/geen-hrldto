@@ -105,7 +105,7 @@ Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaset
 <li>een manier van werken te ontwikkelen om multidisciplinair en in- en externe stakeholders actief te betrekken en met hen samen te werken</li>
 </ul>
 </td>
-<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100%; Hight:100%'></img>
+<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100%; hight: 100%'></img>
 </td>
 </tr>
 </tbody>
@@ -121,7 +121,7 @@ Vaak ligt de focus tijdens veranderingsprocessen, op het gestructureerd uitvoere
 <li>werkende wijs zowel individueel als collectief een routine op te bouwen en competenties te ontwikkelen om boven- en onderstroom te verbinden en zo de beoogde projectresultaten te realiseren.       </li>
 </ul>
 <figure><img src='media/image9.png' alt='Afbeelding met tekst, schermopname, cirkel, diagram' style='width: 100%;'></img>
-<figcaption><i>Afbeelding 4: De Innovatieleercyclus verbindt boven- en onderstroom</i></figcaption></figure>
+<figcaption><i>De Innovatieleercyclus verbindt boven- en onderstroom</i></figcaption></figure>
 
 ## Oorzaken voor ‘fuzziness’ in de onderstroom {#0B3F0B38}
 Tijdens het ontwikkelen en verankeren van een digitale tweeling doen zich allerlei boven- en onderstroomse dynamieken voor. Niet alleen binnen de afzonderlijke bij de usecase betrokken organisaties, maar ook tussen de samenwerkende organisaties en hun vertegenwoordigers. De complexiteit van de dynamiek wordt gevoed doordat verschillende organisatieculturen en uiteenlopende persoonlijke, organisatie- en samenwerksbelangen, prioriteiten, vertrouwensrelaties en machtsverhoudingen dwars door elkaar heen bewegen en continu aan verandering onderhevig zijn. 
