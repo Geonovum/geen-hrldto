@@ -105,7 +105,7 @@ Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaset
 <li>een manier van werken te ontwikkelen om multidisciplinair en in- en externe stakeholders actief te betrekken en met hen samen te werken</li>
 </ul>
 </td>
-<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100%; hight: 100%'></img>
+<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel'></img>
 </td>
 </tr>
 </tbody>
