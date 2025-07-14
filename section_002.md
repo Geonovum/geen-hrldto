@@ -34,9 +34,9 @@ Op die manier sluiten we ook aan bij wat uit wetenschappelijk onderzoek naar vor
 </ul></p>
 </td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #auto;'><p id='51929A29'>Herkennen, verwerven, integreren en toepassen technologie</p></td>
-<td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #auto;'><p id='0031098A'>75% innovatiesucces</p></td>
-<td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #auto;'><p id='48BBC1E9'>Sociale innovatie:</p><ul><li>Co-creëren </li>
+<tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6;'><p id='51929A29'>Herkennen, verwerven, integreren en toepassen technologie</p></td>
+<td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6;'><p id='0031098A'>75% innovatiesucces</p></td>
+<td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6;'><p id='48BBC1E9'>Sociale innovatie:</p><ul><li>Co-creëren </li>
 <li>Flexibel organiseren</li>
 <li>Slimmer werken</li>
 <li>Dynamisch leiderschap</li>
@@ -46,7 +46,6 @@ Op die manier sluiten we ook aan bij wat uit wetenschappelijk onderzoek naar vor
 </tr>
 </tbody>
 </table>
-
 <i>Tabel 1: </i><i>Volberda</i><i> & Bosma 2011 </i>
 <br/>
 <br/>
