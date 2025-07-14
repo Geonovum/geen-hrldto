@@ -72,16 +72,16 @@ Het proces dat het usecaseteam doorloopt, bestaat uit een workshopreeks en daaro
 <figcaption><i>Het usecaseproces</i></figcaption></figure>
 
 ### Het selecteren van een usecase en een interdisciplinair team vormen {#4EBCD8A7}
-Het proces van lerend een digitale tweeling ontwikkelen en verankeren, kent een aantal rollen. Een provincie of gemeente brengt een maatschappelijk vraagstuk in, waarvoor zij een digitale tweeling willen ontwikkelen. Dit kunnen zij doen in samenwerking met andere overheden. De ‘usecase-ownende’ organisatie zorgt dat alles rondom de usecase wordt voorbereid en er een team wordt gevormd. Het is raadzaam dat de organisatie die een digitale tweeling wil ontwikkelen, voor de inhoudelijke aansturing daarvan een projectleider aanstelt. 
-Het vraagstuk kan vanuit diverse (beleids)afdelingen en functionarissen bij de projectleider worden ingebracht. Het is van belang dat het eigenaarschap voor het vraagstuk en daarmee de usecase vanuit de opgave en/of beleidsafdeling wordt geregeld en niet bij de projectleider of de IT-afdeling ligt. Ook is het essentieel dat het team dat binnen een usecase samenwerkt, in ieder geval bestaat uit een actief betrokken eigenaar van het vraagstuk, beleids- en/of gebiedsprofessionals, opgavemanagers, onderzoeksprofessionals en (geo)data-experts van de bij het vraagstuk betrokken organisaties. 
+Het proces van lerend een digitale tweeling ontwikkelen en verankeren, kent een aantal rollen. Een provincie of gemeente brengt een maatschappelijk vraagstuk in, waarvoor zij een digitale tweeling willen ontwikkelen. Dit kunnen zij doen in samenwerking met andere overheden. De ‘usecase-ownende’ organisatie zorgt dat alles rondom de usecase wordt voorbereid en er een team wordt gevormd. Het is raadzaam dat de organisatie die een digitale tweeling wil ontwikkelen, voor de inhoudelijke aansturing daarvan een projectleider aanstelt.  
 <br/>
+Het vraagstuk kan vanuit diverse (beleids)afdelingen en functionarissen bij de projectleider worden ingebracht. Het is van belang dat het eigenaarschap voor het vraagstuk en daarmee de usecase vanuit de opgave en/of beleidsafdeling wordt geregeld en niet bij de projectleider of de IT-afdeling ligt. Ook is het essentieel dat het team dat binnen een usecase samenwerkt, in ieder geval bestaat uit een actief betrokken eigenaar van het vraagstuk, beleids- en/of gebiedsprofessionals, opgavemanagers, onderzoeksprofessionals en (geo)data-experts van de bij het vraagstuk betrokken organisaties.  
 <br/>
 Een van de leerpunten uit de uitgevoerde usecases bij Provincie Flevoland en Almere is dat het selecteren van een relevante maatschappelijke opgave voor een usecase, het enthousiasmeren en actief betrekken van de juiste bij de opgave betrokken functionarissen en organisaties, als ook het ‘in de steigers zetten’ en het eigenaarschap, niet van vandaag op morgen geregeld is maar veel tijd en aandacht en doorzettingsvermogen van een projectleider vraagt. Aangezien bij ieder maatschappelijk vraagstuk weer andere functionarissen en organisaties betrokken zijn, is de dynamiek van iedere usecase anders en verlopen zowel de voorbereidingsfase als de workshops iedere keer weer anders. Dat maakt het essentieel dat een projectleider niet alleen goed is in het managen van een project, maar vooral om weet te gaan met een continu veranderend krachtenveld, belangen en prioriteiten, en daar situationeel op in weet te spelen en resultaten boekt.  
-<br/>
 <br/>
 Het is raadzaam om naast een projectleider een combinatie aan te stellen van een procesbegeleider met organisatie- en/of veranderkundige competenties en een inhoudelijk begeleider met een beleidsinformatie en/of data-technische achtergrond. Zij kunnen de projectleider in de voorbereidende fase ondersteunen, adviseren en helpen waar nodig. De procesbegeleider en inhoudelijk begeleider zorgen voor het vormgeven en voorbereiden, faciliteren en uitwerken van de workshops en de retrospectiefs. Dit alles vindt plaats in afstemming met de projectleider.
 Daarnaast helpt de procesbegeleider de projectleider bij de dynamiek rond de usecase en het daaraan verbonden leerproces, zodat er een digitale tweeling in gebruik kan worden genomen die de doelen van het maatschappelijk vraagstuk ondersteunt. Kennis van en ervaring met organisatie(veranderings)processen, dynamiek van groepsprocessen binnen en tussen organisaties is essentieel.
 De inhoudelijk begeleider adviseert en ondersteunt bij het ontwikkelen van opgave gerelateerde userstories en de technische ontwikkeling van de digitale tweeling. Deze rol kan goed door een (geo)data-expert of informatie-analist vervuld worden.
+
 ### <b>Usecase</b><b> in beeld brengen met een </b><b>usecasecanvas</b> {#0D10E7F8}
 Voor het goed zicht krijgen op het maatschappelijke vraagstuk en wat dit betekent voor de te ontwikkelen digitale tweeling en de verankering daarvan in de organisatie, is een usecasecanvas ontwikkelt. Dit canvas wordt tijdens de workshops als hulpmiddel gebruikt en gaandeweg het proces gevuld. 
 <br/>
@@ -90,8 +90,7 @@ Voor het goed zicht krijgen op het maatschappelijke vraagstuk en wat dit beteken
 <br/>
 <br/>
 <figure><img src='media/image7.png' alt='Afbeelding met tekst, schermopname, diagram, Parallel' style='width: 100%;'></img>
-<figcaption><i>Afbeelding 3: Het </i><i>usecasecanvas</i></figcaption></figure>
-
+<figcaption><i>Het usecasecanvas</i></figcaption></figure>
 <br/>
 <br/>
 Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaseteam. Het helpt een multidisciplinair usecaseteam van beleids- en/of gebieds-of opgaveprofessionals en geo-data-specialisten uit de bij het vraagstuk betrokken organisaties:
@@ -99,14 +98,14 @@ Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaset
 <colgroup><col id='col1' style='width: 64.5927470744989%;'>
 <col id='col2' style='width: 35.4072529255011%;'>
 </colgroup>
-<tbody><tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><ul><li><span style='color: #3C3C3C;'>systematisch en </span><i><span style='color: #3C3C3C;'>agile </span></i><span style='color: #3C3C3C;'>vanuit het maatschappelijk vraagstuk, de maatschappelijke doelen en beoogde maatschappelijke waarden een digitale tweeling te ontwikkelen </span></li>
+<tbody><tr><td class='left'><ul><li><span style='color: #3C3C3C;'>systematisch en </span><i><span style='color: #3C3C3C;'>agile </span></i><span style='color: #3C3C3C;'>vanuit het maatschappelijk vraagstuk, de maatschappelijke doelen en beoogde maatschappelijke waarden een digitale tweeling te ontwikkelen </span></li>
 <li><span style='color: #3C3C3C;'>over silo’s en organisatiegrenzen heen te leren samenwerken</span></li>
 <li><span style='color: #3C3C3C;'>elkaar, elkaars werksituatie en uitdagingen leren kennen en begrijpen</span></li>
 <li><span style='color: #3C3C3C;'>een gemeenschappelijke taal ontwikkelen</span></li>
 <li><span style='color: #3C3C3C;'>een manier van werken te ontwikkelen om multidisciplinair en in- en externe stakeholders actief te betrekken en met hen samen te werken</span></li>
 </ul>
 </td>
-<td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100%;'></img>
+<td class='left'><img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 100%;'></img>
 </td>
 </tr>
 </tbody>
