@@ -26,12 +26,12 @@ Op die manier sluiten we ook aan bij wat uit wetenschappelijk onderzoek naar vor
 <td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #D9D9D9;'><p id='6E07A7D2'><b>MATE VAN HET INNOVATIESUCCES</b></p></td>
 <td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #D9D9D9;'><p id='36BE1E06'><b>ASPECTEN VAN INVLOED OP DE MATE VAN HET INNOVATIESUCCES </b></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #auto;'><p id='3045FE87'>Nieuwe technologie</p></td>
-<td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #auto;'><p id='0842520B'>25% innovatiesucces</p></td>
-<td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #auto;'><p id='350CFE9B'>Technologische innovatie: </p><ul><li>R&D</li>
+<tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6;'><p id='3045FE87'>Nieuwe technologie</p></td>
+<td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6;'><p id='0842520B'>25% innovatiesucces</p></td>
+<td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6;'><p id='350CFE9B'>Technologische innovatie: <ul><li>R&D</li>
 <li>ICT</li>
 <li>Technologie</li>
-</ul>
+</ul></p>
 </td>
 </tr>
 <tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #auto;'><p id='51929A29'>Herkennen, verwerven, integreren en toepassen technologie</p></td>
