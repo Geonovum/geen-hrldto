@@ -99,7 +99,7 @@ Het usecasecanvas vormt de basis voor een collectief leerproces van het usecaset
 <li>een gemeenschappelijke taal ontwikkelen</li>
 <li>een manier van werken te ontwikkelen om multidisciplinair en in- en externe stakeholders actief te betrekken en met hen samen te werken</li>
 </ul>
-<figure<img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 50%;'></img>
+<img src='media/image8.png' alt='Afbeelding met schermopname, tafel' style='width: 50%;'></img>
 <br/>
 
 ## De dynamiek tijdens het ontwikkelen en verankeren van een digitale tweeling  {#036BAD72}
