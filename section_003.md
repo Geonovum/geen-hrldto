@@ -482,7 +482,7 @@ Een belangrijk aspect bij het ontwikkelen van een digitale tweeling is dat de to
 <figcaption><i>Beeld van hoe de functionele architectuur werkt en de verschillende onderdelen samenhangen</i></figcaption></figure>
 <br/>
 <br/>
-<i>Leren van & voortgang boeken op het ontwikkelen en verankeren van een digitale tweeling </i>
+<i>Leren van & voortgang boeken op het ontwikkelen en verankeren van een digitale tweeling </i><br/>
 Tijdens de usecaseworkshops is de basis gelegd van het collectieve leerproces voor het ontwikkelen en verankeren van een digitale tweeling. Dit leerproces wordt tijdens de prototestingsfase voortgezet. Daarvoor vinden er onder begeleiding van de procesbegeleider, periodieke retrospectief-sessies plaats. Doel en inhoud van deze retrospectief-sessies staan in paragraaf 3.7 beschreven.
 
 ## De digitale tweeling in praktijk {#708A2534}
@@ -566,54 +566,59 @@ De groep in 2-tallen of individueel, aan de hand van een op A0-formaat geprinte 
 <br/>
 <br/>
 <i>Tips voor reflectievragen </i>
-<ol><li><u>Waardecreatie </u><ol><li>Doel: inzicht krijgen in de mate waarin de projectactiviteiten bijdragen aan het creëren van waarde voor de maatschappelijke opgave, voor elkaar als samenwerkende partijen en voor stakeholders.</li>
-<li>Voorbeelden evaluatie- & reflectiethema’s<ul><li>In hoeverre we nog bezig zijn met het creëren van waarde voor de maatschappij, voor elkaar en onze stakeholders</li>
-<li>Welke uitdagingen zich voordoen en wat mogelijke oplossingsrichtingen zijn</li>
-<li>Wat hierin op technologisch, relationeel, organisatorisch vlak anders of beter kan</li>
-<li>Wat we starten, meer van willen, willen behouden, minder van willen of stoppen</li>
-<li>Wie welke actie neemt en wanneer</li>
-<li>In hoeverre de maatschappelijke /elkaars/ stakeholderbelangen tot zijn recht komen </li>
-<li>In hoeverre beleidsrichtlijnen en -handreikingen voldoende meegenomen zijn</li>
-<li>In hoeverre we zicht hebben op (veranderende) informatievragen van onze stakeholders</li>
-<li>In hoeverre we zicht hebben op de datasets die daarvoor nodig zijn</li>
+<ol><li><u>Waardecreatie </u>
+  <ol><li>Doel: inzicht krijgen in de mate waarin de projectactiviteiten bijdragen aan het creëren van waarde voor de maatschappelijke opgave, voor elkaar als samenwerkende partijen en voor stakeholders.</li>
+<li>Voorbeelden evaluatie- & reflectiethema’s
+  <ul><li>In hoeverre we nog bezig zijn met het creëren van waarde voor de maatschappij, voor elkaar en onze stakeholders</li>
+  <li>Welke uitdagingen zich voordoen en wat mogelijke oplossingsrichtingen zijn</li>
+  <li>Wat hierin op technologisch, relationeel, organisatorisch vlak anders of beter kan</li>
+  <li>Wat we starten, meer van willen, willen behouden, minder van willen of stoppen</li>
+  <li>Wie welke actie neemt en wanneer</li>
+  <li>In hoeverre de maatschappelijke /elkaars/ stakeholderbelangen tot zijn recht komen </li>
+  <li>In hoeverre beleidsrichtlijnen en -handreikingen voldoende meegenomen zijn</li>
+  <li>In hoeverre we zicht hebben op (veranderende) informatievragen van onze stakeholders</li>
+  <li>In hoeverre we zicht hebben op de datasets die daarvoor nodig zijn</li>
 </ul>
 </li>
 </ol>
 </li>
-</ol>
-<br/>
+
 <br/>
 <ol><li><u>Ontwikkelen en gebruiken </u><ol><li>Doel: inzicht krijgen in hoe de ontwikkeling, het gebruik en de integratie van data, technologie en (reken)modellen plaatsvinden binnen organisatie- en ketenprocessen en bijdragen aan oplossingen voor de maatschappelijke opgaven. </li>
-<li>Voorbeelden evaluatie & reflectiethema’s<ul><li>Welke data(bronnen) van andere partijen nodig zijn</li>
-<li>In hoeverre de juiste partijen uit het ecosysteem zijn aangehaakt voor het ontwikkelen van FAIR data, rekenmodellen en aanverwante technologieën </li>
-<li>In hoeverre data en technologie bijdragen aan het planvormings-, besluitvormings- en uitvoeringsproces</li>
-<li>Welke ethische afwegingen hierbij essentieel zijn en geborgd moeten zijn</li>
-<li>In hoeverre de data, rekenmodellen en monitoringsfunctionaliteit bijdragen aan de planvorming, besluitvorming, uitvoering en handhaving </li>
-<li>In hoeverre gebruikers en stakeholders in staat zijn data en technologieën toe te passen en te gebruiken in hun werkprocessen</li>
-<li>Wat op relationeel en/of organisatorisch vlak anders moet worden georganiseerd om de data, technologie en (reken)modellen te kunnen gebruiken</li>
-<li>Wat we starten, meer van willen, willen behouden, minder van willen of stoppen</li>
-<li>Wie neemt welke actie en wanneer</li>
+<li>Voorbeelden evaluatie & reflectiethema’s
+  <ul><li>Welke data(bronnen) van andere partijen nodig zijn</li>
+  <li>In hoeverre de juiste partijen uit het ecosysteem zijn aangehaakt voor het ontwikkelen van FAIR data, rekenmodellen en aanverwante technologieën </li>
+  <li>In hoeverre data en technologie bijdragen aan het planvormings-, besluitvormings- en uitvoeringsproces</li>
+  <li>Welke ethische afwegingen hierbij essentieel zijn en geborgd moeten zijn</li>
+  <li>In hoeverre de data, rekenmodellen en monitoringsfunctionaliteit bijdragen aan de planvorming, besluitvorming, uitvoering en handhaving </li>
+  <li>In hoeverre gebruikers en stakeholders in staat zijn data en technologieën toe te passen en te gebruiken in hun werkprocessen</li>
+  <li>Wat op relationeel en/of organisatorisch vlak anders moet worden georganiseerd om de data, technologie en (reken)modellen te kunnen gebruiken</li>
+  <li>Wat we starten, meer van willen, willen behouden, minder van willen of stoppen</li>
+  <li>Wie neemt welke actie en wanneer</li>
 </ul>
 </li>
 </ol>
 </li>
 </ol>
+
 <br/>
-<br/>
-<ol><li><u>Samenwerking </u><ol><li>Doel: inzicht krijgen in hoe de verschillende disciplines van verschillende afdelingen en organisaties binnen het usecase-team samenwerken, en met collega’s en stakeholders binnen en buiten de eigen organisatie. </li>
-<li>Voorbeelden evaluatie & reflectiethema’s<ul><li>De kernwaarden en spelregels op basis waarvan we met elkaar samenwerken <br/>
+<ol><li><u>Samenwerking </u>
+  <ol><li>Doel: inzicht krijgen in hoe de verschillende disciplines van verschillende afdelingen en organisaties binnen het usecase-team samenwerken, en met collega’s en stakeholders binnen en buiten de eigen organisatie. </li>
+  <li>Voorbeelden evaluatie & reflectiethema’s 
+    <ul><li>De kernwaarden en spelregels op basis waarvan we met elkaar samenwerken <br/>
 Zorgen voor een gezonde vertrouwensbasis, onderling commitment en respect voor elkaars autonomie, onderlinge openheid en uitwisseling, hernieuwt evenwicht met nieuw aangesloten samenwerkingspartners</li>
-<li>De waarde die we als samenwerkende partijen aan elkaar, onze achterban en onze stakeholders leveren <br/>
+  <li>De waarde die we als samenwerkende partijen aan elkaar, onze achterban en onze stakeholders leveren <br/>
 Zie ook 1. waardecreatie</li>
-<li>De legitimiteit en support die we van elkaar, onze achterban en andere stakeholders nodig hebben om goed met elkaar te kunnen samenwerken en de beoogde resultaten te boeken</li>
-<li>In hoeverre de juiste stakeholders en samenwerkingspartners betrokken zijn</li>
-<li>Wat op relationeel en/of organisatorisch vlak anders of beter kan om de data, technologie en (reken)modellen in gebruik te kunnen nemen</li>
-<li>Wat we starten, meer van willen, willen behouden, minder van willen of stoppen</li>
-<li>Wie welke actie neemt en wanneer</li>
+  <li>De legitimiteit en support die we van elkaar, onze achterban en andere stakeholders nodig hebben om goed met elkaar te kunnen samenwerken en de beoogde resultaten te boeken</li>
+  <li>In hoeverre de juiste stakeholders en samenwerkingspartners betrokken zijn</li>
+  <li>Wat op relationeel en/of organisatorisch vlak anders of beter kan om de data, technologie en (reken)modellen in gebruik te kunnen nemen</li>
+  <li>Wat we starten, meer van willen, willen behouden, minder van willen of stoppen</li>
+  <li>Wie welke actie neemt en wanneer</li>
 </ul>
 </li>
 </ol>
 </li>
+</ol>
 </ol>
 <br/>
 <br/>
