@@ -18,10 +18,10 @@ Een procesbegeleider kan de projectleider ondersteunen met het scherp krijgen va
 </colgroup>
 <tbody>
 <tr><td class='left' style='border-top: 0.5pt solid #A6A6A6; border-left: 0.5pt solid #A6A6A6; border-bottom: 0.5pt solid #A6A6A6; border-right: 0.5pt solid #A6A6A6; background-color: #F0F8FF;'>
-<span style='font-size: 14pt;'><p class='space-after' id='4639FEA8'><b>Handreiking voor het selecteren van een usecase</b></p>
-</span>
+<p class='space-after' id='4639FEA8'><span style='font-size: 12pt;'><b>Handreiking voor het selecteren van een usecase</b>
+</span></p>
 <br/>
-<p class='space-after' id='01D320BA'><span style='font-size: 12pt;'><b>Het maatschappelijk vraagstuk en het belang van een digitale tweeling</b>
+<p class='space-after' id='01D320BA'><span style='font-size: 11pt;'><b>Het maatschappelijk vraagstuk en het belang van een digitale tweeling</b>
 <ol>
   <li>Wat is het maatschappelijke vraagstuk dat moet worden opgelost?</li>
   <li>Hoe kan een digitale tweeling helpen bij het oplossen van het vraagstuk?</li>
