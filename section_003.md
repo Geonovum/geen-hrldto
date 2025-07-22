@@ -59,8 +59,8 @@ De volgende paragrafen gaan per usecaseworkshop in op de inhoud. Ook geven de pa
 Tijdens de eerste workshop wordt het richting en het doel van de usecase bepaalt. Het heeft een verkennend en divergerend karakter. Gaandeweg de andere workshops wordt op de onderwerpen uit deze eerste workshop teruggegrepen en wordt geconvergeerd. 
 <br/>
 <br/>
-<img src='media/image10.png' alt='Afbeelding met schermopname, tekst, diagram, lijn' style='width: 56.51518534144579%;'></img>
-<i>Afbeelding 5: de </i><i>usecaseworkshops</i><i> en het proces van divergeren en convergeren </i>
+<figure><img src='media/image10.png' alt='Afbeelding met schermopname, tekst, diagram, lijn' style='width: 56.51518534144579%;'></img>
+<figcaption><i>De usecaseworkshops en het proces van divergeren en convergeren </i></figcaption></figure>
 <br/>
 <br/>
 Het doel van de workshop is enerzijds het vraagstuk in beeld brengen waarvoor een digitale tweeling wordt ontwikkeld en anderzijds een team te gaan vormen. Daarom staat deze eerste workshop in het teken van het met elkaar ontdekken en zicht krijgen op welk maatschappelijk vraagstuk het usecaseteam wil oplossen waarom, de waarde die dat de maatschappij moet opleveren, met wie en voor wie het usecaseteam dat wil oplossen. 
@@ -117,9 +117,9 @@ Trek voor de workshop voldoende tijd uit, een dagdeel van 4 uur is aan te bevele
 </ul>
 <br/>
 <br/>
-<img src='media/image11.png' alt='Afbeelding met tekst, schermopname, document, Parallel' style='width: 46.5672079729763%;'></img>
+<figure><img src='media/image11.png' alt='Afbeelding met tekst, schermopname, document, Parallel' style='width: 46.5672079729763%;'></img>
 <img src='media/image12.png' alt='Afbeelding met tekst, schermopname, Parallel, document' style='width: 47.385810369352484%;'></img>
-<i>Afbeelding 6: voorbeeld uitwerking workshop 1</i>
+<figcaption><i>Voorbeeld uitwerking workshop 1</i></figcaption></figure>
 
 ### Workshop 2: het ontwerp {#7AE623D6}
 <i>Doel van workshop 2</i>
@@ -183,22 +183,22 @@ Ook voor deze workshop is het raadzaam een dagdeel van 4 uur uit te trekken.
 </table>
 
 <i>Tips voor werkvormen en hulpmiddelen</i>
-<ul><li>Agendapunt 3<ul><li>Een ‘prioriteringsvraag’ of ‘prioriteringstool’ zoals de ranking-tool in mentimeter is een effectief middel om focus aan te brengen in een hoeveelheid van ideeën en tot prioritering van het maatschappelijke vraagstuk dat tijdens de ontwikkeling van een digitale tweeling centraal staat</li>
+<ul><li>Agendapunt 3<ul><li>Een ‘prioriteringsvraag’ of ‘prioriteringstool’ zoals de ranking-tool in mentimeter is een effectief middel om focus aan te brengen in een hoeveelheid van ideeën en tot prioritering van het maatschappelijke vraagstuk dat tijdens de ontwikkeling van een digitale tweeling centraal staat.</li>
 </ul>
 </li>
 </ul>
 <br/>
 <br/>
-<img src='media/image13.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 64.39875087365034%;'></img>
-<i>Afbeelding 7: een voorbeeld van een </i><i>Mentimeter</i><i> om tot een prioritering te komen van het vraagstuk waarop het </i><i>usecaseteam</i><i> zich met de digitale tweeling op wilde richten. Hieruit is de </i><i>usecase</i><i> ‘Wateroverlast ten gevolge van een hoosbui’ ontstaan.</i>
+<figure><img src='media/image13.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 64.39875087365034%;'></img>
+<figcaption><i>Een voorbeeld van een Mentimeter om tot een prioritering te komen van het vraagstuk waarop het secaseteam zich met de digitale tweeling op wilde richten. Hieruit is de usecase ‘Wateroverlast ten gevolge van een hoosbui’ ontstaan.</i></figcaption></figure>
 <br/>
 <br/>
 <ul><li>Een samenvatting (die door de procesbegeleider wordt voorbereid) kan helpen als ‘praatplaat’ om tot een scherpere definitie van het vraagstuk te komen</li>
 </ul>
 <br/>
 <br/>
-<img src='media/image14.png' alt='Afbeelding met tekst, schermopname, Website, Webpagina' style='width: 100%;'></img>
-<i>Afbeelding 8: een voorbeeld van een samenvatting voor de </i><i>usecase</i><i> Hittestress.</i>
+<figure><img src='media/image14.png' alt='Afbeelding met tekst, schermopname, Website, Webpagina' style='width: 100%;'></img>
+<figcaption><i>Een voorbeeld van een samenvatting voor de usecase Hittestress.</i></figcaption>figcaption></figure>
 <br/>
 <br/>
 Agendapunt 4
