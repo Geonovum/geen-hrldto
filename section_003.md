@@ -283,7 +283,7 @@ Daarnaast is het een krachtig communicatiemiddel:
 </ul>
 <br/>
 <br/>
-<i>Deelnemers</i>
+<i>Deelnemers</i><br/>
 Deze deelworkshop wordt in de regel gehouden met de opgave- en beleidsinhoudelijke professionals, informatie- en (geo)dataspecialisten die ook in voorgaande workshops participeerden. Het kan echter nuttig zijn om meer of andere toekomstige gebruikers aan te laten sluiten. Dan is dit zeker aan te raden.
 <br/>
 <br/>
@@ -399,7 +399,7 @@ Procesbegeleider </span></p></td>
 </tbody>
 </table>
 
-<i>Deelnemers</i>
+<i>Deelnemers</i><br/>
 Bij deze deelworkshop zijn alleen informatie- en (geo)dataspecialisten aanwezig vanwege hun kennis en ervaring met het vertalen van informatiebehoeften naar data en modellen. 
 <br/>
 <br/>
@@ -422,7 +422,7 @@ Het doel van de derde workshop is het proces van het verhelderen van de maatscha
 Afhankelijk van de fase waarin het usecase-team zich begeeft met betrekking tot het vertalen van beleidsdoelen naar indicatoren, kan er nog een extra agendapunt worden toegevoegd. Namelijk, het verbinden van de beleidsdoelen uit workshop 1 met de user stories en het verder concretiseren en meetbaar maken van beleidsdoelen in indicatoren. Dit onderwerp kan ook tijdens de prototestingfase in samenwerking met de betreffende leverancier worden opgepakt, bij het integreren van beleidskaders en richtlijnen in een digitale tweeling. 
 <br/>
 <br/>
-<i>Deelnemers</i>
+<i>Deelnemers</i><br/>
 Bij deze deelworkshop zijn weer alle deelnemers aanwezig die tijdens de eerste twee workshops ook aanwezig waren.  
 <br/>
 <br/>
@@ -475,7 +475,6 @@ Het ontwikkelen van de digitale tweeling vindt plaats onder leiding van de proje
 <figure><img src='media/image20.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 40.95616302793768%;'></img>
 <figcaption><i>Onderdeel usecasecanvas met aandachtspunten voor het ontwikkelen van de digitale tweeling</i></figcaption></figure>
 <br/>
-<br/>
 Een belangrijk aspect bij het ontwikkelen van een digitale tweeling is dat de toekomstige gebruikers duidelijk aangeven welke functionaliteiten zij nodig hebben, en welke interacties er tussen functionaliteiten plaats moeten vinden om de functionele architectuur te laten werken (zie onderstaande afbeelding). De projectleider begeleidt samen met de software-ontwikkelaar dit proces. Hierbij adviseert Geonovum over hoe de digitale tweeling in lijn met de nationale digitale tweeling architectuur ‘interoperabel’ kan worden ontwikkeld, zodat data en (reken)modellen van verschillende digitale tweelingen kunnen worden uitgewisseld en communicatie en samenwerking tussen verschillende digitale tweelingen mogelijk is. Ook helpt Geonovum op de overdracht voor te bereiden voor een solution architectuur en implementatie.
 <br/>
 <br/>
@@ -485,6 +484,7 @@ Een belangrijk aspect bij het ontwikkelen van een digitale tweeling is dat de to
 <br/>
 <i>Leren van & voortgang boeken op het ontwikkelen en verankeren van een digitale tweeling </i>
 Tijdens de usecaseworkshops is de basis gelegd van het collectieve leerproces voor het ontwikkelen en verankeren van een digitale tweeling. Dit leerproces wordt tijdens de prototestingsfase voortgezet. Daarvoor vinden er onder begeleiding van de procesbegeleider, periodieke retrospectief-sessies plaats. Doel en inhoud van deze retrospectief-sessies staan in paragraaf 3.7 beschreven.
+
 ## De digitale tweeling in praktijk {#708A2534}
 Het doel van de prototestingfase is dat er werkende digitale tweeling wordt opgeleverd, die door beleidsmakers, opgavemanagers, informatie- en (geo)dataspecialisten wordt gebruikt voor het maatschappelijke vraagstuk dat in de usecase centraal staat. Daarom is het essentieel te toetsen of de digitale tweeling bijdraagt aan:
 <ul><li>het realiseren van de beoogde beleidsdoelen</li>
@@ -508,7 +508,7 @@ Tijdens de usecase-workshops wordt de basis gelegd van het collectieve leerproce
 Tijdens deze maandelijkse retrospectief-sessies van max. 2 uur staat het usecase-team niet alleen stil bij wat eenieder in de dagelijkse praktijk tegenkomt en hoe er het beste mee kan worden omgegaan, maar ook bij wat er aan de situaties die zich voordoen ten grondslag ligt. Op die manier beogen we meer inzicht te krijgen in specifieke organisatorische, relationele en technologische impact van data en de digitale tweeling technologie. Ook proberen we zowel de positieve als negatieve boven- en onderstroomse dynamiek die dat teweegbrengt, beter te begrijpen en proefondervindelijk na te gaan welke interventies en competenties helpen dit te verbeteren.  
 <br/>
 <br/>
-<i>Deelnemers</i>
+<i>Deelnemers</i><br/>
 Aan de retrospectief-sessies neemt het usecase-team deel dat ook deelnam aan de usecase-workshops participeerden. Het is goed ook een afgevaardigde van de software-ontwikkelaar deel te laten nemen, aangezien het om een gezamenlijk leerproces gaat. 
 <br/>
 <br/>
