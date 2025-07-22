@@ -198,21 +198,21 @@ Ook voor deze workshop is het raadzaam een dagdeel van 4 uur uit te trekken.
 <br/>
 <br/>
 <figure><img src='media/image14.png' alt='Afbeelding met tekst, schermopname, Website, Webpagina' style='width: 100%;'></img>
-<figcaption><i>Een voorbeeld van een samenvatting voor de usecase Hittestress.</i></figcaption>figcaption></figure>
+<figcaption><i>Een voorbeeld van een samenvatting voor de usecase Hittestress.</i></figcaption></figure>
 <br/>
 <br/>
 Agendapunt 4
 <ul><li>Hieronder is een voorbeeld gegeven van hoe een in kaart gebracht proces eruit kan zien, met daarbij een eerste inventarisatie van de benodigde inzichten, informatie en databronnen.</li>
 </ul>
-<img src='media/image15.png' alt='Afbeelding met tekst, elektronica, schermopname, Lettertype' style='width: 100%;'></img>
-<i>Afbeelding 9: een voorbeeld van een processchema </i>
+<figure><img src='media/image15.png' alt='Afbeelding met tekst, elektronica, schermopname, Lettertype' style='width: 100%;'></img>
+<figcaption><i>Een voorbeeld van een processchema </i></figcaption></figure>
 <br/>
 <br/>
 <ul><li>Voor sommige usecaseteams kan het door het abstractieniveau die deze exercitie vergt, lastig zijn om het proces vorm te geven. Dan kan voor een andere invulling van dit agendapunt worden gekozen. Bijvoorbeeld: door de vier fasen van de beleidscyclus als uitgangspunt te nemen en met elkaar een beeld te vormen van de functionaliteiten die het usecaseteam per fase van de beleidscyclus nodig denkt te hebben van een digitale tweeling. Dit kan er als volgt uitzien. <br/>
 </li>
 </ul>
-<img src='media/image16.png' alt='Afbeelding met tekst, schermopname, diagram, cirkel' style='width: 100%;'></img>
-<i>Afbeelding 10: een voorbeeld de gewenste functionaliteiten van een digitale tweeling per fase van de beleidscyclus</i>
+<figure><img src='media/image16.png' alt='Afbeelding met tekst, schermopname, diagram, cirkel' style='width: 100%;'></img>
+<figcaption><i>Een voorbeeld de gewenste functionaliteiten van een digitale tweeling per fase van de beleidscyclus</i></figcaption></figure>
 
 ### Deelworkshop: user stories {#560636BB}
 <i>Doel van deelworkshop User </i><i>stories</i>
@@ -290,13 +290,13 @@ Deze deelworkshop wordt in de regel gehouden met de opgave- en beleidsinhoudelij
 </ul>
 <br/>
 <br/>
-<img src='media/image17.png' alt='Afbeelding met tekst, schermopname, Lettertype' style='width: 100%;'></img>
-<i>Afbeelding 11.: template 1 user story</i>
+<figure><img src='media/image17.png' alt='Afbeelding met tekst, schermopname, Lettertype' style='width: 100%;'></img>
+<figcaption><i>Template 1 user story</i></figcaption></figure>
 <br/>
 <br/>
 Iedere user story kan verder worden gespecificeerd en gekwantificeerd. Daar is onderstaand template een handig hulpmiddel voor. Het aanscherpen van de user stories helpt gebruikers concreter te worden over wat zij verwachten van een digitale tweeling en aan welke voorwaarden een digitale tweeling dient te voldoen. 
-<img src='media/image18.png' alt='Afbeelding met tekst, schermopname, Lettertype, lijn' style='width: 100%;'></img>
-<i>Afbeelding 12.: template voor het smart maken en kwantificeren van de user story</i>
+<figure><img src='media/image18.png' alt='Afbeelding met tekst, schermopname, Lettertype, lijn' style='width: 100%;'></img>
+<figcaption><i>Afbeelding 12.: template voor het smart maken en kwantificeren van de user story</i></figcaption></figure>
 
 ### Deelworkshop: technologie & data {#1239FCC0}
 Deze deelworkshop gaat dieper op de data en technologie in. De workshop is gericht op:
@@ -361,8 +361,8 @@ Agendapunt 2
 <ul><li>Afhankelijk van de uitkomsten de deelworkshop user stories de groepsgrootte en -dynamiek,  kan template user story smart & gekwantificeerd worden gebruikt om de user stories verder aan te scherpen</li>
 <li>In plaats van het template kan ook een excelsheet worden gebruikt, zoals hieronder weergegeven.</li>
 </ul>
-<img src='media/image19.png' alt='Afbeelding met tekst, schermopname, lijn, Lettertype' style='width: 100%;'></img>
-<i>Afbeelding 13: voorbeeld uitgewerkte en gekwantificeerde userstory</i>
+<figure><img src='media/image19.png' alt='Afbeelding met tekst, schermopname, lijn, Lettertype' style='width: 100%;'></img>
+<figcaption><i>Voorbeeld uitgewerkte en gekwantificeerde userstory</i></figcaption></figure>
 
 ### Workshop 3: Use case compleet maken {#35138273}
 Het doel van de derde workshop is het proces van het verhelderen van de maatschappelijk vraag naar technologische specificaties compleet te maken, zodat de vraagarticulatie wordt voltooid en de prototestingsfase kan worden gestart. Daarvoor worden:
@@ -425,15 +425,15 @@ Het doel van de prototestingfase is het ontwikkelen van een werkende digitale tw
 Het ontwikkelen van de digitale tweeling vindt plaats onder leiding van de projectleider. De projectleider stemt de inhoud van het ontwikkelproces af met de softwareleverancier. Tijdens het ontwikkelproces wordt de voortgang op de ontwikkeling van de technologie aan de hand van de user stories, op verschillende momenten geëvalueerd en getoetst. Meestal organiseert de software-ontwikkelaar sprintreviews waarin de tussentijdse resultaten van de digitale tweeling die wordt ontwikkeld, aan de hand van de user stories kunnen worden getoetst.
 <br/>
 <br/>
-<img src='media/image20.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 40.95616302793768%;'></img>
-<i>Afbeelding 14: onderdeel </i><i>usecasecanvas</i><i> met aandachtspunten voor het ontwikkelen van de digitale tweeling</i>
+<figure><img src='media/image20.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 40.95616302793768%;'></img>
+<figcaption><i>Onderdeel usecasecanvas met aandachtspunten voor het ontwikkelen van de digitale tweeling</i></figcaption></figure>
 <br/>
 <br/>
 Een belangrijk aspect bij het ontwikkelen van een digitale tweeling is dat de toekomstige gebruikers duidelijk aangeven welke functionaliteiten zij nodig hebben, en welke interacties er tussen functionaliteiten plaats moeten vinden om de functionele architectuur te laten werken (zie onderstaande afbeelding). De projectleider begeleidt samen met de software-ontwikkelaar dit proces. Hierbij adviseert Geonovum over hoe de digitale tweeling in lijn met de nationale digitale tweeling architectuur ‘interoperabel’ kan worden ontwikkeld, zodat data en (reken)modellen van verschillende digitale tweelingen kunnen worden uitgewisseld en communicatie en samenwerking tussen verschillende digitale tweelingen mogelijk is. Ook helpt Geonovum op de overdracht voor te bereiden voor een solution architectuur en implementatie.
 <br/>
 <br/>
-<img src='media/image21.png' alt='Afbeelding 217816336' style='width: 62.338239140082024%;'></img>
-<i>Afbeelding 15: beeld van hoe de functionele architectuur werkt en de verschillende onderdelen samenhangen</i>
+<figure><img src='media/image21.png' alt='Afbeelding 217816336' style='width: 62.338239140082024%;'></img>
+<figcaption><i>Beeld van hoe de functionele architectuur werkt en de verschillende onderdelen samenhangen</i></figcaption></figure>
 <br/>
 <br/>
 <i>Leren van & voortgang boeken op het ontwikkelen en verankeren van een digitale tweeling </i>
@@ -447,8 +447,8 @@ Het doel van de prototestingfase is dat er werkende digitale tweeling wordt opge
 Dat is het doel van deze laatste fase van het usecase-canvas. Onderstaande vragen helpen deze toetsing te doen.
 <br/>
 <br/>
-<img src='media/image22.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 43.28530800332056%;'></img>
-<i>Afbeelding 16: onderdeel </i><i>usecasecanvas</i><i> met aandachtspunten voor het toetsen van de werking van de digitale tweeling in de dagelijkse praktijk</i>
+<figure><img src='media/image22.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 43.28530800332056%;'></img>
+<figcaption><i>Onderdeel usecasecanvas met aandachtspunten voor het toetsen van de werking van de digitale tweeling in de dagelijkse praktijk</i></figcaption></figure>
 
 ## Systematisch leren & ontwikkelen {#70AC5FF7}
 Tijdens de usecase-workshops wordt de basis gelegd van het collectieve leerproces voor het ontwikkelen en verankeren van een digitale tweeling. Tijdens het ontwikkelen van een digitale tweeling technologie, wordt het leerproces gecontinueerd. Daarvoor vinden er onder begeleiding van de procesbegeleider periodiek retrospectief-sessies plaats. Deze retrospectief-sessies hebben als doel op systematische wijze te leren van en voortgang te boeken op 3 thema’s, die terug te voeren zijn op het usecase-canvas:
@@ -511,12 +511,11 @@ De groep in 2-tallen of individueel, aan de hand van een op A0-formaat geprinte 
 <br/>
 <br/>
 <figure><img src='media/image23.png' alt='Afbeelding met tekst, schermopname, cirkel, grafische vormgeving' style='width: 100%;'></img>
-<figcaption><i>Afbeelding 17: De werkvorm met de thema’s die tijdens de periodieke </i><i>retrospectiefs</i><i> worden behandeld</i></figcaption></figure>
-
+<figcaption><i>De werkvorm met de thema’s die tijdens de periodieke retrospectiefs worden behandeld</i></figcaption></figure>
 <br/>
 <br/>
-<img src='media/image24.jpeg' alt='Afbeelding met tekst, Post-it-briefje, Papierprodcut, Notitiebord' style='width: 100%;'></img>
-<i>Afbeelding 18: Voorbeeld van een werkvorm waarin de drie thema’s aan de orde gesteld kunnen worden</i>
+<figure><img src='media/image24.jpeg' alt='Afbeelding met tekst, Post-it-briefje, Papierprodcut, Notitiebord' style='width: 100%;'></img>
+<figcaprion><i>Voorbeeld van een werkvorm waarin de drie thema’s aan de orde gesteld kunnen worden</i></figcaption></figure>
 <br/>
 <br/>
 <i>Tips voor reflectievragen </i>
@@ -571,7 +570,7 @@ Zie ook 1. waardecreatie</li>
 </ol>
 <br/>
 <br/>
-<i>Vastleggen en opvolgen van de resultaten </i>
+<i>Vastleggen en opvolgen van de resultaten </i><br/>
 Het doel van de innovatieleercyclus is door middel van het periodiek uitvoeren van een retrospectief, te leren en ervaring op te doen met het ontwikkelen van en werken met een digitale tweeling voor complexe samenhangende maatschappelijke vraagstukken. Het op gestructureerde wijze vastleggen en opvolgen van de leerpunten helpt inzicht te krijgen in terugkerende patronen en daar preventieve maatregelen voor te ondernemen. Het gestructureerd vastleggen en opvolgen van de leerpunten maakt het makkelijker binnen een usecase, maar ook tussen usecases de geleerde lessen uit te wisselen in een opwaartse lijn qua samenwerking, vaardigheden, organisatie, productontwikkeling en waardecreatie te komen.
 <br/>
 <br/>
@@ -579,8 +578,7 @@ Een manier om de geleerde lessen vast te leggen is volgens onderstaande afbeeldi
 <br/>
 <br/>
 <figure><img src='media/image25.png' alt='Afbeelding met tekst, schermopname, nummer, lijn' style='width: 100%;'></img>
-<figcaption><i>Afbeelding 15: een voorbeeld van een template voor het gestructureerd documenteren van de ‘</i><i>lessons</i><i> </i><i>learned</i><i>’ </i></figcaption></figure>
-
+<figcaption><i>Een voorbeeld van een template voor het gestructureerd documenteren van de ‘lessons learned’</i></figcaption></figure>
 <br/>
 <br/>
 Het advies is deze werkwijze te handhaven om het integraal samenwerken aan maatschappelijke vraagstukken met behulp van een digitale tweeling, echt in de genen te krijgen. Het veranderproces stopt immers niet bij de oplevering van een digitale tweeling. Door deze werkwijze te handhaven, wordt het veranderproces op systematische wijze voortgezet en biedt het ruimte te werken aan zaken zoals:
