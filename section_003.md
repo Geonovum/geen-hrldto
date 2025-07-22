@@ -237,7 +237,7 @@ Ook voor deze workshop is het raadzaam een dagdeel van 4 uur uit te trekken.
 </ul>
 <br/>
 <br/>
-<figure><img src='media/image13.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 64.39875087365034%;'></img>
+<figure><img src='media/image131.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 64.39875087365034%;'></img>
 <figcaption><i>Een voorbeeld van een Mentimeter om tot een prioritering te komen van het vraagstuk waarop het secaseteam zich met de digitale tweeling op wilde richten. Hieruit is de usecase ‘Wateroverlast ten gevolge van een hoosbui’ ontstaan.</i></figcaption></figure>
 <br/>
 <br/>
