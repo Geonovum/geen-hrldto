@@ -297,7 +297,7 @@ Deze deelworkshop wordt in de regel gehouden met de opgave- en beleidsinhoudelij
 <br/>
 Iedere user story kan verder worden gespecificeerd en gekwantificeerd. Daar is onderstaand template een handig hulpmiddel voor. Het aanscherpen van de user stories helpt gebruikers concreter te worden over wat zij verwachten van een digitale tweeling en aan welke voorwaarden een digitale tweeling dient te voldoen. 
 <figure><img src='media/image18.png' alt='Afbeelding met tekst, schermopname, Lettertype, lijn' style='width: 100%;'></img>
-<figcaption><i>Afbeelding 12.: template voor het smart maken en kwantificeren van de user story</i></figcaption></figure>
+<figcaption><i>Template voor het smart maken en kwantificeren van de user story</i></figcaption></figure>
 
 ### Deelworkshop: technologie & data {#1239FCC0}
 Deze deelworkshop gaat dieper op de data en technologie in. De workshop is gericht op:
@@ -516,7 +516,7 @@ De groep in 2-tallen of individueel, aan de hand van een op A0-formaat geprinte 
 <br/>
 <br/>
 <figure><img src='media/image24.jpeg' alt='Afbeelding met tekst, Post-it-briefje, Papierprodcut, Notitiebord' style='width: 100%;'></img>
-<figcaprion><i>Voorbeeld van een werkvorm waarin de drie thema’s aan de orde gesteld kunnen worden</i></figcaption></figure>
+<figcaption><i>Voorbeeld van een werkvorm waarin de drie thema’s aan de orde gesteld kunnen worden</i></figcaption></figure>
 <br/>
 <br/>
 <i>Tips voor reflectievragen </i>
