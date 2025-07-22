@@ -77,7 +77,6 @@ Als het maatschappelijk vraagstuk geschikt is voor het inrichten van een leeromg
 <li>Procesbegeleider met inhoudelijke kennis en ervaring met het vertalen van beleidsvragen naar informatie-, data en technologie.</li>
 </ul>
 <br/>
-<br/>
 Aangezien ieder vraagstuk anders is, zal ook de samenstelling van het soort functionarissen en de mate waarin zij betrokken zijn, per usecase verschillend zijn. Het is echter essentieel dat voor ieder vraagstuk, in het usecaseteam altijd opgave- en beleidsinhoudelijke professionals vertegenwoordigd zijn, aangezien zij de vragende partij zijn.
 Het vraagt van de projectleider flexibiliteit en adaptieve vaardigheden om zich situationeel aan continu veranderende omstandigheden en intern (politieke) dynamiek aan te passen, om tot een goede usecase met passend usecaseteam te komen.
 
