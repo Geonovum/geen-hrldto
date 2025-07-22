@@ -34,25 +34,26 @@ Een procesbegeleider kan de projectleider ondersteunen met het scherp krijgen va
 <b>Waar een digitale tweeling aan moet bijdragen</b>
 <ol>
   <li>Waar moet een digitale tweeling aan voldoen, wil het voor jullie van waarde zijn?
-    <ul>Welke functies van een digitale tweeling zie je voor je? Wat moet het kunnen?</ul>
-    <ul>Welke wensen zijn er t.a.v. voorspellingen die jullie m.b.v. een digitale tweeling willen kunnen doen?</ul>
-    </li>
+    <ul></li>iWelke functies van een digitale tweeling zie je voor je? Wat moet het kunnen?</li>
+    <li>Welke wensen zijn er t.a.v. voorspellingen die jullie m.b.v. een digitale tweeling willen kunnen doen?</li>
+    </ul></li>
   <li>Welke ethische dilemma’s voorzie je?
-    <ul>Welke ideeën hebben jullie over hoe jullie daarmee om willen gaan?</ul></li>
+    <ul><li>Welke ideeën hebben jullie over hoe jullie daarmee om willen gaan?</li></ul></li>
   <li>Welke data denken jullie te willen gebruiken (open data, private of public data)?</li>
   <li>Welke meerwaarde/ facilitering verwacht je van de samenwerking tussen de usescases?
-    <ul>M.b.t. de ontwikkeling van het maatschappelijk vraagstuk dat centraal staat?</ul>
-    <ul>M.b.t. de ontwikkeling van de technologie</ul></li>
+    <ul><li>M.b.t. de ontwikkeling van het maatschappelijk vraagstuk dat centraal staat?</li>
+    <li>M.b.t. de ontwikkeling van de technologie</li></ul></li>
   <li>Welke ervaring hebben jullie al met het ontwikkelen van digitale tweelingen?
-    <ul>Wat waren hierin positieve leerpunten?</ul>
-    <ul>En tot welke aandachtspunten heeft dit geleid?</ul>
-    <ul>Welke ervaring hebben jullie om dit vanuit maatschappelijke opgave te doen?</ul></li>
+    <ul><li>Wat waren hierin positieve leerpunten?</li>
+    <li>En tot welke aandachtspunten heeft dit geleid?</li>
+    <li>Welke ervaring hebben jullie om dit vanuit maatschappelijke opgave te doen?</li></ul></li>
 </ol><br/>
 <b>Interne en externe samenwerkingspartners & belanghebbenden</span></b>
 <ol>
   <li>Welke <u>interne</u> opgave- en beleidsinhoudelijke medewerkers heb je voor ogen om het vraagstuk mee op te pakken en de digitale tweeling te ontwikkelen? 
-  <ul>Welke rol hebben deze medewerkers m.b.t. het vraagstuk, of zouden ze moeten hebben?</ul>
-  <ul>In hoeverre zijn zij op de hoogte van dit initiatief?</ul></li>
+  <ul><li>Welke rol hebben deze medewerkers m.b.t. het vraagstuk, of zouden ze moeten hebben?</li>
+  <li>In hoeverre zijn zij op de hoogte van dit initiatief?</li></ul></li>
+  
   
   
     <p id='25F5EA64'><span style='color: #64686B;'>En welke </span><span style='color: #64686B;'><u>externe</u></span><span style='color: #64686B;'> opgave- en beleidsinhoudelijke medewerkers?</span></p><p id='764242E0'><span style='color: #64686B;'>In hoeverre zijn zij op de hoogte?</span></p><p id='7432579C'><span style='color: #64686B;'>In hoeverre zijn zij op de hoogte van dit initiatief?</span></p><p id='4297565D'><span style='color: #64686B;'>In hoeverre wordt er al met bedrijven samengewerkt voor het ontwikkelen/faciliteren van technologie voor digitale tweelingen?</span></p><p id='5D1D8C64'><span style='color: #64686B;'>In hoeverre willen jullie aan deze samenwerkingsrelaties vasthouden?</span></p><p id='519FBEE7'><span style='color: #64686B;'>Wat moeten jullie regelen om voldoende draagvlak binnen en buiten de organisatie te krijgen voor het starten van een </span><span style='color: #64686B;'>usecase</span><span style='color: #64686B;'>? </span></p><p id='786B974E'><span style='color: #64686B;'>Wie zijn jullie interne stakeholders? Wie zijn jullie externe stakeholders?</span></p><p id='42D29D7A'><span style='color: #64686B;'>Wie is eigenaar van het maatschappelijk vraagstuk?</span></p><p id='04837956'><span style='color: #64686B;'>In hoeverre is de eigenaar al bij de plannen voor een </span><span style='color: #64686B;'>usecase</span><span style='color: #64686B;'> betrokken?</span></p><p id='5298810C'><span style='color: #64686B;'>In hoeverre hebben jullie goedkeuring en financiële middelen om een </span><span style='color: #64686B;'>usecase</span><span style='color: #64686B;'> te starten?</span></p><p class='space-after' id='0CF64BEA'><span style='color: #64686B;'>Wie is bepalend bij de besluitvorming?</span></p><p id='43D20D71'><b><span style='color: #808080;'> </span></b></p>
